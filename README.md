@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PRIYANSHUIITG
+- 👋 Hi, I’m @PRIYANSU
 - 👀 I’m interested in music
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
